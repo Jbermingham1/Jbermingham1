@@ -27,7 +27,7 @@ I'm now extending that into **cloud & cloud security** — building real infrast
 ## 🤖 AI engineering (featured)
 
 ### [aaisaf](https://github.com/Jbermingham1/aaisaf) · AI Security Assessment Framework
-87 techniques across 10 tactics, with first-published depth on **MCP server security** and **voice AI exploitation**. Multi-jurisdiction compliance mapping (OWASP, MITRE ATLAS, NIST, ISO 42001, EU AI Act). `CC BY-SA 4.0`
+91 techniques across 10 tactics, with first-published depth on **MCP server security** and **voice AI exploitation**. Multi-jurisdiction compliance mapping (OWASP, MITRE ATLAS, NIST, ISO 42001, EU AI Act). `CC BY-SA 4.0`
 
 ### [bifrost-eval](https://github.com/Jbermingham1/bifrost-eval) · Pipeline evaluation toolkit
 Grade multi-agent MCP workflows on accuracy, tool correctness, latency, and cost. Pyright strict, Hypothesis property-based fuzzing, 80% coverage gate. `MIT`
@@ -42,7 +42,7 @@ Grade multi-agent MCP workflows on accuracy, tool correctness, latency, and cost
 ## 🎓 Credentials
 - ✅ **Google Cybersecurity Certificate** — completed
 - 🔄 **AWS Cloud Practitioner (CLF-C02)** — in progress
-- 🎓 **Bachelor of Commerce (Finance)** — completing Dec 2026
+- 🎓 **Bachelor of Business (Finance), UoW** — completing Dec 2026
 
 ## 🧰 Stack
 `Python` · `TypeScript` · `Anthropic Claude` · `Model Context Protocol` · `Terraform` · `AWS` · `pydantic` · `pyright` · `Hypothesis` · `Zod`
